@@ -8,8 +8,7 @@ function App() {
 
   return (
     <>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt beatae error ipsum impedit numquam iure cumque a hic doloribus magnam!</p>
-       
+<h1>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et molestiae atque excepturi culpa nemo aut cumque ullam, hic illo odio nihil adipisci soluta accusamus facere voluptatum sapiente at, est aspernatur quod. Aut commodi non modi cum facilis eum, accusantium suscipit. Alias, voluptatum eaque? Quidem molestias facere, voluptas dolorum a ipsa.</h1>       
     </>
   )
 }
