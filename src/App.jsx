@@ -9,7 +9,9 @@ function App() {
   return (
     <>
 <h1>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et molestiae atque excepturi culpa nemo aut cumque ullam, hic illo odio nihil adipisci soluta accusamus facere voluptatum sapiente at, est aspernatur quod. Aut commodi non modi cum facilis eum, accusantium suscipit. Alias, voluptatum eaque? Quidem molestias facere, voluptas dolorum a ipsa.</h1>       
+    <h5>Lorem ipsum dolor sit amet.</h5>
     </>
+
   )
 }
 
